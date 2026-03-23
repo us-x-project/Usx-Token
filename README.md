@@ -26,7 +26,7 @@ Su objetivo es ofrecer una alternativa estable y transparente para la comunidad 
 ---
 
 ## 🌐 Comunidad
-- Próximamente: Twitter oficial  
+- Próximamente: X oficial  
 - Próximamente: Telegram oficial  
 - [Página oficial](https://us-x-project.github.io/usx-token)  
 

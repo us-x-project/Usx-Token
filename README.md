@@ -3,7 +3,7 @@
 # US.x Token
 # US.x Token
 
-![Logo](logo.png)
+![Usx](Usx.png)
 
 US.x es un token descentralizado desplegado en la red **BNB Smart Chain (BSC)**.  
 Su objetivo es ofrecer una alternativa estable y transparente para la comunidad cripto.
